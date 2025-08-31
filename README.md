@@ -12,10 +12,10 @@ The task was to perform **web application vulnerability assessment** on intentio
 - Delivered a final **Security Assessment Report**  
 
 ## 📂 Repository Structure
-├── /Report # Final Report (DOCX/PDF)
-├── /Screenshots # Evidence & attack vectors
-└── README.md # Project overview
+'''/Report''' - Final Report (DOCX/PDF)
+'''/Screenshots''' - Evidence & attack vectors
+'''README.md''' - Project overview
 
 ## 📬 Author
-**[Your Name]** – Cyber Security Intern @ Future Interns
+**Rishav Raj** – Cyber Security Intern @ Future Interns
 
