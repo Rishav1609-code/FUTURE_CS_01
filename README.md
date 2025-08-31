@@ -12,7 +12,7 @@ The task was to perform **web application vulnerability assessment** on intentio
 - Delivered a final **Security Assessment Report**  
 
 ## 📂 Repository Structure
-'''/Report''' - Final Report (DOCX/PDF)
+'''(https://github.com/Rishav1609-code/FUTURE_CS_01/tree/main/Report)''' - Final Report (DOCX/PDF)
 '''/Screenshots''' - Evidence & attack vectors
 '''README.md''' - Project overview
 
